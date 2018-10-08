@@ -2,6 +2,7 @@
 
 ## 黑苹果运行在Vmware虚拟机中
 
+![](./vmware-mac.jpg)
 
 MAC OS X 10.10 YOSEMITE VER 2015.torrent
 
